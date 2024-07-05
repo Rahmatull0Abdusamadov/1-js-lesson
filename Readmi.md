@@ -1,6 +1,6 @@
  * JS : Java Script
 
- ! [] (https://freepngdesign.com/content/uploads/images/javascript-logo-7539.png)
+ ![alt text](image.png)
 
  ### На синтаксис оказали влияние языки Си и Java, и, поскольку Java в то время было модным словом, 4 декабря 1995 года LiveScript переименовали в JavaScript, получив соответствующую лицензию у Sun.  
 
@@ -9,7 +9,7 @@
  # JavaScript Variables and Constants
  ### In Js 3 Constans Variables 
  #### 1 : Var , 2 : Let , 3 : const ,
- ##  we use var for all values ​​and let accepts var-color for all values ​​and const for one value
+ ##  we use var for all values ​​and Let accepts var-color for all values ​​and Const baroi yk  znachenya istifoda mebarad
  # OBJECTS AND PRIMITIVES 
  ### Privmitives has 7 valuse
  1 Number
@@ -35,6 +35,7 @@
  3 Funnctional
 
  4 Many more
+ # Mo bisertar primitivero istifoda mebarem
 
  # THE 7 primitive data types 
 

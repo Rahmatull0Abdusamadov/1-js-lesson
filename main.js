@@ -23,10 +23,24 @@
 // console.log(test(0))
 
 // #Task3.
-function test(a){
-    let sum=0;
-    for(let i = 1; i<=10; i++ ) {
-        console.log(a*i)
-    }
-}
-console.log (test(5))
+// function name(a){
+//     for(let i=1;i<=10;i++){
+//     console.log (a+"*"+i+"="+a*i)
+//     }
+// }
+// console.log(name(5))
+
+// #Task4
+// function test (a){
+//     if(a%10==9){
+//         return "Yes"
+//     }
+//     else{
+//         return "No"
+//     }
+// }
+// console.log(test(149))
+
+// Task5
+// let a=1900;
+// console.log(Math.ceil(a/100))
